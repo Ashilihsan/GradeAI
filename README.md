@@ -13,4 +13,4 @@ An AI-powered system for automating the evaluation of university exam answer she
 - 🧮 Automatically assign marks for each question
 - 📊 Generate final mark sheet for each student
 
----GradeAI
+---
